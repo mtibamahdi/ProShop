@@ -1,0 +1,25 @@
+Proshop
+gitignore rm -rf .git mel frontend
+*gitignore n7awlouha lel root folder
+*na7i mel gitignore / mel node_modules
+*add .env
+*npm i react-bootstrap bootstrap react-icons
+*npm i react-router-dom
+*npm i react-router-bootstrap
+/backend
+*npm i express
+*npm i -D nodemon concurrently
+*npm i -D dotenv
+/frontend
+*npm i axios
+
+nrigel db fel mongo atlas w nsob compass
+https://mongoosejs.com/
+
+/backend
+npm i mongoose
+npm i bcryptjs
+npm i colors // add colors to console
+
+/frontend
+npm i @reduxjs/toolkit react-redux
